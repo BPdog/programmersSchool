@@ -71,3 +71,10 @@
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+
+<p>나의 생각</p>
+다른 사람들의 풀이를 참고하엿을 때
+<code></code>(n+slice-1)/slice </code>
+이러한 코드를 생각하지 못한게 조금 아쉽다.. 문제를 조금더 생각해보는 습관을 들여야겟다
+
+ 
