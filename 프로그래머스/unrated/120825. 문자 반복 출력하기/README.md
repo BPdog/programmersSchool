@@ -61,3 +61,9 @@
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+
+### 나의 생각
+<p>
+앞서 알게된 문자열 반복메소드 repeat 를 이용하고자 toString으로 형변환을 해줫는데
+char + "" 만 해도  string되는걸... 으 자바좀 다시 공부하자!
+</p>
