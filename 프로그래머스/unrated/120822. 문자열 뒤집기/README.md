@@ -67,3 +67,14 @@
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+
+### 나의 생각
+풀이법 3가지
+i) 반복문 사용
+ii) StringBuffer reverse 이용
+iii) Collections reverse 이용
+
+첫번째 방법이 제일 먼저 떠올랐고 이 문제도 stream을 통해 풀어낼수있을거란 생각이 들어 검색을 해보니 3번째 방법도 있더라 하하 
+
+
+
