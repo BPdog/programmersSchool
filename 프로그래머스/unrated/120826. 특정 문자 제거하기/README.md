@@ -73,3 +73,9 @@
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+
+### 나의 생각
+<p>
+자바도 알고보면 제공하는 편리한 메소드가 많다...
+String replace 잘기억해두자         
+</p>
